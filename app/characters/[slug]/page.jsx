@@ -24,19 +24,8 @@ export default async function Page({ params }) {
 
   const { character, character_quotes } = await getCharacterBySlug(slug)
 
-  const heavyScript = `
-    for (let i = 0; i < 1000000000; i++) {
-      Math.random();
-    }
-  `
-
   return (
     <Container className="flex flex-col gap-5 py-5" as="main">
-      {slug == 'glenn-quagmire' && (
-        <>
-          <Script id={'heavyScript'} dangerouslySetInnerHTML={{ __html: heavyScript }} />
-        </>
-      )}
       <div className="flex flex-col gap-2">
         <h1 className="text-2xl font-semibold capitalize">{character.name}</h1>
         <ul className="flex gap-1 text-sm">
@@ -66,6 +55,7 @@ export default async function Page({ params }) {
                 alt=""
                 width={760}
                 height={435}
+                priority={slug == 'glenn-quagmire' ? false : true}
               />
             </li>
           )
