@@ -63,7 +63,9 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683835731/fcc-family-guys/stewie/stewie-family-guy-fox-1085482_qxxhmu.jpg",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683835733/fcc-family-guys/stewie/stewie-griffin-header_sbmpu7.avif"
       ],
-      "occupations": ["Scientist Inventor"]
+      "occupations": [
+        "Scientist Inventor"
+      ]
     },
     {
       "id": 3,
@@ -95,7 +97,9 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683839932/fcc-family-guys/meg/images_ycikcx.png",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683840043/fcc-family-guys/meg/LA7PMMm9pkPM46TvZeB7Y8-1200-80_dyrdfr.jpg"
       ],
-      "occupations": ["High school student"]
+      "occupations": [
+        "High school student"
+      ]
     },
     {
       "id": 5,
@@ -108,7 +112,11 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683893882/fcc-family-guys/joe/Joe_Swanson_soundboard_g9qhys.png",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683893887/fcc-family-guys/joe/joe-swanson-from-family-guy_ovw9dh.jpg"
       ],
-      "occupations": ["Police Officer", "Father", "Husband"]
+      "occupations": [
+        "Police Officer",
+        "Father",
+        "Husband"
+      ]
     },
     {
       "id": 6,
@@ -121,7 +129,10 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683894216/fcc-family-guys/bonnie/MV5BNjk1MGVhZDctMWYyZS00ZTQzLTk1MTEtYzAzOWVjZWQ1MWIwXkEyXkFqcGdeQXVyMjYwNDA2MDE_._V1__q4bhdj.jpg",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683894166/fcc-family-guys/bonnie/dd8sdi6-60e303f1-9871-4642-a0b0-192353edbf21_hcsih0.png"
       ],
-      "occupations": ["Stay-at-home Mom", "Supportive Spouse"]
+      "occupations": [
+        "Stay-at-home Mom",
+        "Supportive Spouse"
+      ]
     },
     {
       "id": 7,
@@ -140,10 +151,12 @@
       "age": "Late 40s",
       "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683894304/fcc-family-guys/quagmire/quaqmire_javsub.png",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894743/fcc-family-guys/quagmire/k1h6a4qz-1920_bjbld4.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894897/fcc-family-guys/quagmire/qVoMBBzZMtiN5mAe8weLHG_lh9utx.jpg"
+        "https://utfs.io/f/f51e7180-aced-4051-9d4e-a89f25783565-txc8gj.jpg",
+        "https://utfs.io/f/f51e7180-aced-4051-9d4e-a89f25783565-txc8gj.jpg"
       ],
-      "occupations": ["commercial airline pilot"]
+      "occupations": [
+        "commercial airline pilot"
+      ]
     },
     {
       "id": 8,
@@ -172,7 +185,9 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683835426/fcc-family-guys/brian/best-brian-griffin-quotes_hl7ncy.jpg",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683835430/fcc-family-guys/brian/l-intro-1669128726_mtvlll.jpg"
       ],
-      "occupations": ["Writer"]
+      "occupations": [
+        "Writer"
+      ]
     },
     {
       "id": 9,
@@ -202,7 +217,9 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683895832/fcc-family-guys/adam/3261321-screen_shot_2017-07-18_at_9.07.30_am_m1e56b.png",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683895830/fcc-family-guys/adam/QzWH4xks3ughYw9rZhprAE_ipcnof.png"
       ],
-      "occupations": ["Mayor"]
+      "occupations": [
+        "Mayor"
+      ]
     },
     {
       "id": 11,
@@ -215,7 +232,10 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683896067/fcc-family-guys/clevland/007690_1268x713_639191_053_u0jmge.jpg",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683896059/fcc-family-guys/clevland/Cleveland_aa3sa3.jpg"
       ],
-      "occupations": ["Deli Owner", "Former Cable Guy"]
+      "occupations": [
+        "Deli Owner",
+        "Former Cable Guy"
+      ]
     },
     {
       "id": 12,
@@ -236,7 +256,9 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683896248/fcc-family-guys/carter/maxresdefault_uh6ov6.jpg",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683896249/fcc-family-guys/carter/ea95d4ac245a9a2fca1003439e5831698a456fb3_00_wa7fz0.jpg"
       ],
-      "occupations": ["CEO of Pewterschmidt Industries"]
+      "occupations": [
+        "CEO of Pewterschmidt Industries"
+      ]
     },
     {
       "id": 13,
@@ -249,7 +271,9 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1684095807/fcc-family-guys/doctor/7ba7d4d61c375ce681738c3f34c91fd92c2d139d_00_o1nxwh.jpg",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683896809/fcc-family-guys/doctor/oqggjnjx85y61_dcfftq.jpg"
       ],
-      "occupations": ["Medical Doctor"]
+      "occupations": [
+        "Medical Doctor"
+      ]
     },
     {
       "id": 14,
@@ -272,7 +296,9 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683896683/fcc-family-guys/chicken/images_qwigpy.jpg",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683896686/fcc-family-guys/chicken/maxresdefault_1_zyqv4m.jpg"
       ],
-      "occupations": ["Peter Griffin's rival"]
+      "occupations": [
+        "Peter Griffin's rival"
+      ]
     },
     {
       "id": 15,
@@ -285,7 +311,9 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683897083/fcc-family-guys/tom/MV5BZDg4YWYwN2QtNDZlZi00MjI2LTk5M2MtNzliMjliNjc2MWI0XkEyXkFqcGdeQXVyMjYwNDA2MDE_._V1__b4axte.jpg",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683897014/fcc-family-guys/tom/Screenshot_2023-05-12_173945_xvogma.png"
       ],
-      "occupations": ["News Anchor"]
+      "occupations": [
+        "News Anchor"
+      ]
     },
     {
       "id": 16,
@@ -305,7 +333,9 @@
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683899181/fcc-family-guys/herbert/MV5BYjY2ZjU4MWQtNWM0ZC00NTQxLWE1ZGMtYTAxZmQxZGNjNTEzXkEyXkFqcGdeQXVyNjMxNzQ2NTQ_._V1__d3z8fb.jpg",
         "https://res.cloudinary.com/dakts9ect/image/upload/v1683899135/fcc-family-guys/herbert/maxresdefault_mhitnq.jpg"
       ],
-      "occupations": ["Retired U.S. Army Veteran"]
+      "occupations": [
+        "Retired U.S. Army Veteran"
+      ]
     }
   ]
 }

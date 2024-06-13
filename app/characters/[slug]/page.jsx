@@ -10,6 +10,7 @@ Renders a Next.js page component that displays detailed information about a char
 import { Container } from '@/components'
 import { getAllCharacters, getCharacterBySlug } from '@/lib/characters'
 import Image from 'next/image'
+import Script from 'next/script'
 
 export const dynamicParams = false
 
@@ -18,20 +19,24 @@ export async function generateStaticParams() {
   return characters.map(character => ({ slug: character.slug }))
 }
 
-const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
-
 export default async function Page({ params }) {
   const { slug } = params
 
-  // Add delay if slug is 'herbert'
-  if (slug === 'herbert') {
-    await delay(8000)
-  }
-
   const { character, character_quotes } = await getCharacterBySlug(slug)
+
+  const heavyScript = `
+    for (let i = 0; i < 1000000000; i++) {
+      Math.random();
+    }
+  `
 
   return (
     <Container className="flex flex-col gap-5 py-5" as="main">
+      {slug == 'glenn-quagmire' && (
+        <>
+          <Script id={'heavyScript'} dangerouslySetInnerHTML={{ __html: heavyScript }} />
+        </>
+      )}
       <div className="flex flex-col gap-2">
         <h1 className="text-2xl font-semibold capitalize">{character.name}</h1>
         <ul className="flex gap-1 text-sm">
