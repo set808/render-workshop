@@ -22,6 +22,10 @@ export async function GET(req, { params }) {
       return new NextResponse('not found', { status: 404 });
     }
 
+    if (character.slug === 'peter-griffin') {
+      return NextResponse.json({ error: 'Forbidden' }, { status: 403 });
+    }
+
     const character_quotes = quotes.data.filter(
       item => item.character_id === character.id,
     );

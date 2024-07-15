@@ -1,16 +1,8 @@
 'use strict'
 
-exports.config = {   
-/**
-* Array of application names.
-*/
-app_name: "",
-/**
-* Your New Relic license key.
-*/
-license_key: "",
+exports.config = {
 
-application_logging: {
+  application_logging: {
     forwarding: {
       enabled: true
     }
